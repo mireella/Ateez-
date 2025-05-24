@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ATEEZ - Site Fã</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>ATEEZ</h1>
+        <nav>
+            <ul>
+                <li><a href="#sobre">Sobre</a></li>
+                <li><a href="#membros">Membros</a></li>
+                <li><a href="#discografia">Discografia</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="sobre">
+        <h2>Sobre o ATEEZ</h2>
+        <p>ATEEZ é um grupo sul-coreano formado pela KQ Entertainment. Conhecidos por suas performances poderosas e músicas cativantes, eles são uma sensação global no K-pop.</p>
+    </section>
+
+    <section id="membros">
+        <h2>Membros</h2>
+        <div class="cards">
+            <div class="card">Hongjoong</div>
+            <div class="card">Seonghwa</div>
+            <div class="card">Yunho</div>
+            <div class="card">Yeosang</div>
+            <div class="card">San</div>
+            <div class="card">Mingi</div>
+            <div class="card">Wooyoung</div>
+            <div class="card">Jongho</div>
+        </div>
+    </section>
+
+    <section id="discografia">
+        <h2>Discografia</h2>
+        <ul>
+            <li>Treasure Series</li>
+            <li>ZERO : FEVER Series</li>
+            <li>THE WORLD Series</li>
+            <li>Álbuns Japoneses</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>Site de fã - ATEEZ © 2025</p>
+    </footer>
+
+    <script src="main.js"></script>
+</body>
+</html>
